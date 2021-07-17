@@ -12,3 +12,7 @@ function calculate(){
     }
 }
 
+var btn = form.veql;
+btn.addEventListener('dblclick',()=>{
+    form.disp.value = "";
+});

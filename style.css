@@ -16,7 +16,10 @@ body{
     place-items: center;
     background: #dde1e7;
 }
-
+header h1{
+    color: #3498db;
+    font-family: 'Poppins',sans-serif;
+}
 
 .calculator{
 width: 330px;
